@@ -1,0 +1,48 @@
+input[type=button]{
+  width: 50px;
+  height:50px;
+  filter: blur;
+}
+
+tr{ 
+  height: 250px;
+  width: 200px;
+}
+
+.imagem{ 
+  height: 30px;
+}
+
+.tvisor{
+  height: 20px;
+  text-align: center;
+}
+
+#calcular,#BTNcal{
+  width: 60px;//Comprimento ou Largura
+}
+
+
+textarea{
+  height: 250px;
+}
+
+div{
+  left: 15%; 
+  position: relative;
+}
+
+table{
+  width: 70%;
+}
+
+#first{
+  background-color: #FFFF00;
+}
+
+input[type=text]{
+  color: blue;
+  width: 200px;
+  font-weight : bolder;
+}
+
